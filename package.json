@@ -1,0 +1,19 @@
+{
+  "name": "awfulgermanlanguage.com",
+  "version": "1.0.0",
+  "description": "Source for for awfulgermanlanguage.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kirkaracha@github.com/kirkaracha/awfulgermanlanguage.com.git"
+  },
+  "keywords": [],
+  "author": "Kirk Franklin",
+  "license": "ISC",
+  "homepage": "https://github.com/kirkaracha/awfulgermanlanguage.com#readme",
+  "bugs": {
+    "url": "https://github.com/kirkaracha/awfulgermanlanguage.com/issues"
+  }
+}
